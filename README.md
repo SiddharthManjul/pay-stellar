@@ -3,6 +3,8 @@
 **Abstract**  
 This paper presents BallisticPay, a blockchain-native infrastructure designed to revolutionize salary distribution, employee identity, and passive income generation. The system integrates Universal Basic Income (UBI) principles, capital investment, and programmable token-based salary disbursement into a decentralized architecture. We outline the key challenges in contemporary payroll systems and detail our proposed architecture's modules, including token preference mechanisms, decentralized identity, UBI deductions, capital deployment strategies, and year-end bonus distribution. The solution offers a flexible, secure, and growth-focused payroll system particularly suited for the crypto-native and globally distributed workforce.
 
+## Technical Paper: https://ballisticpay.vercel.app/technical-paper.pdf
+
 ## Introduction
 
 BallisticPay is a decentralized, blockchain-native infrastructure designed to revolutionize salary distribution, employee identity, and passive income generation through a structured and autonomous system. In today's traditional financial systems, payroll is linear, centralized, and often inefficient across borders. BallisticPay seeks to decentralize this process, integrating the powerful principles of Universal Basic Income (UBI), capital investment, and programmable token-based salary disbursement.
